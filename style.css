@@ -1,0 +1,30 @@
+h3{
+    font-size: 25px !important;
+}
+#dog_filter{
+    height: 80px;
+    width: 90px;
+    font-size: xx-large;
+}
+
+#lip_filter{
+    height: 80px;
+    width: 90px;
+    font-size: xx-large;
+}
+
+#clown_filter{
+    height: 80px;
+    width: 90px;
+    font-size: xx-large;
+}
+
+#glass_filter{
+    height: 80px;
+    width: 90px;
+    font-size: xx-large;
+}
+#instruct{
+    color: cornsilk;
+    font-size: medium;
+}
